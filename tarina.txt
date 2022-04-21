@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 olipa kerran kaunis päivä
+=======
+olipa kerran
+olipa kerran sateinen päivä
+>>>>>>> Stashed changes
