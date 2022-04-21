@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
 Olipa kerran kaunis ja aurinkoinen päivä. Olipa kerran sateinen päivä. Olipa kerran sumuinen päivä.
-=======
 Olipa kerran kaunis päivä. Olipa kerran sateinen päivä. Olipa kerran sumuinen ja kylmä päivä.
->>>>>>> Stashed changes
+
