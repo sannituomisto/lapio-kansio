@@ -1,2 +1,1 @@
-olipa kerran kaunis päivä
-olipa kerran sateinen päivä
+Olipa kerran kaunis päivä. Olipa kerran sateinen päivä. Olipa kerran sumuinen päivä.
